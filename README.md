@@ -6,7 +6,7 @@
 - Code First
 - Repository Pattern
 - 
-# Route
+### Route
 
 - **GET**     /getbyid/1
 - **GET**     /getall
