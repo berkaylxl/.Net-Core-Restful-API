@@ -8,7 +8,7 @@
 - 
 ### Route
 
-- **GET** --> /getbyid/1
+- ***GET***    /getbyid/1
 - **GET**     /getall
 - **POST**    /add
 - **PUT**     /update/1
