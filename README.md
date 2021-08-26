@@ -8,9 +8,9 @@
 - 
 # Route
 
-- GET     /getbyid/1
-- GET     /getall
-- POST    /add
-- PUT     /update/1
-- DELETE  /delete/1
+- **GET**     /getbyid/1
+- **GET**     /getall
+- **POST**    /add
+- **PUT**     /update/1
+- **DELETE**  /delete/1
 
